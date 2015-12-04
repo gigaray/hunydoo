@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="addItem">	Nieuw item toevoegen</string>
+<string name="removeItem">Item verwijderen</string>
+<string name="hdrTitle">Geselecteerde HunyDoo Post</string>
+<string name="reg_name">Register Task</string>
+<string name="rec_name">Record Task</string>
+<string name="mon_name">Monitor Locatie</string>
+<string name="SelectLoca">Selecteer Locatie</string>
+<string name="map_act">	Activiteit kaart</string>
+<string name="locname_sample_txt">	waar ben je?</string>
+<string name="locname_view">Locatie Naam:</string>
+<string name="locname_edit">LOCAICI</string>
+
+<string name="show_smartdoo_prompt">Toon Smart Doo</string>
+<string name="show_clear_taskonly_prompt">Wis Alleen Task Database</string>
+<string name="show_clear_alldb_prompt">	Wis alle databases</string>
+<string name="show_email_addr">	hd@thepaca.net</string>
+<string name="sendEmailText">Stuur Feedback</string>
+<string name="configureText">Configureren</string>
+<string name="configureMessage">Voer configuratie commando:</string>
+<string name="okLabel">	OK</string>
+<string name="cancelLabel">	Annuleren</string>
+<string name="feedbackMessage">	Feedback: HunyDoo</string>
+<string name="extraText">Bevalt het je?</string>
+<string name="sendEmail">E-mail verzenden ...</string>
+
+<string name="pref">Voorkeuren</string>
+<string name="locaName">Locatie Naam</string>
+<string name="locaNameMesg">Voer de locatie naam:</string>
+<string name="notiMesg">HunyDoo: Locatie Of Interest</string>
+<string name="notiTitle">HunyDoo Melding</string>
+<string name="notiDesc">Bereikt locatie van Belang</string>
+<string name="atLoca">Op Locatie:</string>
+<string name="emptyString">	</string>
+
+<string name="loca_SP_None">Vereist hetzij GPS of WiFi op basis van locatie aan het werk</string>
+<!-- Preferences -->
+<string name="continue_fulfiller_prompt">Houd HunyDoo bedrijf, ook als niet zichtbaar [afsluiten volledig Force Stop gebruik in Android-instellingen]</string>
+
+<string name="recTask">Takenlijst</string>
+<string name="regLoc">Locatie Lijst</string>
+<string name="locMap">Lokaliseren op kaart</string>
+
+<string name="eula_title">Licentie</string>
+<string name="eula_accept">Ik lees de licentie en ik accepteer dit</string>
+<string name="eula_refuse">Ik ben niet akkoord met de licentie</string>
+
+<string name="helpText">Help</string>
+<string name="helpDetails"><![CDATA[Gebruik eerste tab om de huidige locatie te registreren. Gebruik tweede tabblad naar een locatie op de kaart te registreren. Het registreren van de locatie, drukt u op Menu-knop. In het derde tabblad, drukt u op de Menu-knop om een ​​taak toe te voegen.]]></string>
+<string name="helpFurther">Voor verdere hulp, gebruik "Feedback:" knop</string>
+
+<string name="addSpeechInpLoca">Toespraak Input voor adres</string>
+<string name="addLocaEntry">Register huidige locatie</string>
+<string name="addLocaMapEntry">Noteer de locatie die door de marker</string>
+<string name="hiddenConfigCmd">Andere voorkeuren</string>
+
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="addItem">添加新任务</string>
+<string name="removeItem">删除任务</string>
+<string name="hdrTitle">项目选择HunyDoo</string>
+<string name="reg_name">登记工作</string>
+<string name="rec_name">记录任务</string>
+<string name="mon_name">监测地点</string>
+<string name="SelectLoca">选择地点</string>
+<string name="map_act">	地图活动</string>
+<string name="locname_sample_txt">你在哪里？</string>
+<string name="locname_view">地点名称：</string>
+<string name="locname_edit">LOCAICI</string>
+
+<string name="show_smartdoo_prompt">显示智能斗</string>
+<string name="show_clear_taskonly_prompt">只有擦除任务数据库</string>
+<string name="show_clear_alldb_prompt">	清除所有资料库</string>
+<string name="show_email_addr">	hd@thepaca.net</string>
+<string name="sendEmailText">发送反馈</string>
+<string name="configureText">配置</string>
+<string name="configureMessage">输入配置命令：</string>
+<string name="okLabel">	确定</string>
+<string name="cancelLabel">	取消</string>
+<string name="feedbackMessage">	反馈：HunyDoo</string>
+<string name="extraText">你喜欢吗？</string>
+<string name="sendEmail">发送电子邮件...</string>
+
+<string name="pref">偏好</string>
+<string name="locaName">地点名称</string>
+<string name="locaNameMesg">输入地点名称：</string>
+<string name="notiMesg">HunyDoo：利益定位</string>
+<string name="notiTitle">HunyDoo通知</string>
+<string name="notiDesc">到达地点利益</string>
+<string name="atLoca">在位置：</string>
+<string name="emptyString">	</string>
+
+<string name="loca_SP_None">需要GPS或无线网络为基础的定位工作</string>
+<!-- Preferences -->
+<string name="continue_fulfiller_prompt">保持HunyDoo运行，即使不可见[要关机完全使用在Android设置强制停止]</string>
+
+<string name="recTask">任务列表</string>
+<string name="regLoc">位置列表</string>
+<string name="locMap">在地图上找到</string>
+
+<string name="eula_title">许可证</string>
+<string name="eula_accept">我读了，我接受许可</string>
+<string name="eula_refuse">我不接受许可证</string>
+
+<string name="helpText">帮助</string>
+<string name="helpDetails"><![CDATA[使用第一个标签寄存器的当前位置。第二个标签使用注册一个地图上的位置。要注册的位置，按 。在第三个选项卡，按菜单按钮来添加一个任务。]]></string>
+<string name="helpFurther">如需进一步帮助，请使用“反馈：“按钮</string>
+
+<string name="addSpeechInpLoca">语音输入的地址</string>
+<string name="addLocaEntry">寄存器的当前位置</string>
+<string name="addLocaMapEntry">纪录标记指定的位置</string>
+<string name="hiddenConfigCmd">其他偏好</string>
+	
+</resources>

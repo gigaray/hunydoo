@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="addItem">Aggiungi nuova attività</string>
+<string name="removeItem">Compito Elimina</string>
+<string name="hdrTitle">Elemento selezionato HunyDoo</string>
+<string name="reg_name">Registro Task</string>
+<string name="rec_name">Record Task</string>
+<string name="mon_name">Monitor Posizione</string>
+<string name="SelectLoca">Scegliere il paese</string>
+<string name="map_act">	Mappa di attività</string>
+<string name="locname_sample_txt">dove sei?</string>
+<string name="locname_view">Località Nome:</string>
+<string name="locname_edit">LOCAICI</string>
+
+<string name="show_smartdoo_prompt">Mostra Doo Smart</string>
+<string name="show_clear_taskonly_prompt">Cancella Database unico compito</string>
+<string name="show_clear_alldb_prompt">	Cancella tutti i database</string>
+<string name="show_email_addr">	hd@thepaca.net</string>
+<string name="sendEmailText">Invia feedback</string>
+<string name="configureText">Configura</string>
+<string name="configureMessage">Inserisci il comando di configurazione:</string>
+<string name="okLabel">	OK</string>
+<string name="cancelLabel">	Annulla</string>
+<string name="feedbackMessage">	Feedback: HunyDoo</string>
+<string name="extraText">Ti piace?</string>
+<string name="sendEmail">Inviare e-mail ...</string>
+
+<string name="pref">Preferenze</string>
+<string name="locaName">Posizione Nome</string>
+<string name="locaNameMesg">Inserisci il nome Località:</string>
+<string name="notiMesg">HunyDoo: della posizione di interesse</string>
+<string name="notiTitle">HunyDoo Notifica</string>
+<string name="notiDesc">Raggiunto posizione di interesse</string>
+<string name="atLoca">In Località:</string>
+<string name="emptyString">	</string>
+
+<string name="addSpeechInpLoca">Discorso di ingresso per l\'indirizzo</string>
+<string name="addLocaEntry">Posizione attuale registro</string>
+<string name="addLocaMapEntry">Registrare la posizione specificata dal marcatore</string>
+<string name="hiddenConfigCmd">Altre preferenze</string>
+
+<string name="loca_SP_None">Richiede GPS o WiFi basata Posizione di lavoro</string>
+<!-- Preferences -->
+<string name="continue_fulfiller_prompt">Tenere HunyDoo in esecuzione anche quando non è visibile [Per spegnere completamente l\'uso della forza di arresto in Android Impostazioni]</string>
+
+<string name="recTask">compito lista</string>
+<string name="regLoc">Elenco delle località</string>
+<string name="locMap">Localizzare sulla cartina</string>
+
+<string name="eula_title">Licenza</string>
+<string name="eula_accept">Ho letto la licenza e lo accetto</string>
+<string name="eula_refuse">Non accetto la licenza</string>
+
+<string name="helpText">Aiuto</string>
+<string name="helpDetails"><![CDATA[Utilizzare prima scheda per registrare posizione corrente. Utilizzare seconda scheda di registrazione di un percorso sulla mappa. Per registrare la località, pulsante Menu stampa. Nella terza scheda, premere il pulsante Menu per aggiungere un\'attività.]]></string>
+<string name="helpFurther">Per ulteriore assistenza, usare "Feedback:" pulsante</string>
+	
+</resources>

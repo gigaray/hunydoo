@@ -1,0 +1,47 @@
+
+*** Using AddProximityAlerts
+// This will definitely eat your battery real quick. You never want to be setting more than a couple of proximity alerts in any case, 
+// the use-case you describe isn't really catered for in Proximity Alerts. Proximity Alerts should switch between GPS and Network as 
+// required, but in my experience they tend to stick to GPS whenever it's available, and your battery will suffer as a result.A better 
+// alternative would be to use an Alarm and a Service to check your current location against your set of 20 to 80 locations as required. 
+// This will let you manage the LBS you want to use (GPS or Cell ID), as well as the frequency of checks, all in one place. Doing it this 
+// way will let you manage your battery use much more effectively.
+
+
+*** Having Service start at Bootup
+It is much better to have the app that uses the service start the
+service when it needs it and simply leaves it running. 
+
+To amplify -- just starting your service at boot and leaving it running all
+of the time is NOT recommended.  It consumes a lot of resources, if nothing
+else a whole process sitting there doing nothing (presumably) most of the
+time, when that memory could be used for other things.
+
+
+*** database - sqlite
+-  model / view / persistence
+- ContentProvider provides the public interface to the persistence tier;
+- CP offer generic interface to any data source by decoupling data storage layer (persistence) layer from   
+- CP expose data with URIs "content://"
+- Applications use ContentResolver to get to ContentProvider
+- Query methods return Cursor
+- use ContentValues to generate values object.
+
+: Database creation and version management -> SQLiteOpenHelper
+- methods include onCreate, onUpgrade, onOpen, close, getWritableDatabase
+
+: Manage Database -> SQLiteDatabase
+- methods include execSQL, close, query, delete
+
+: Access to database is restricted to the application that created it 
+
+
+===============================================
+Implementation details - Managing the Location
+===============================================
+HunyDewActRegisterLoc.onKeyDown calls HunyDewLocationStore.setLocationItem to store (locaName, lat, lon)
+
+
+
+// Add Categories to Places instead of having to specify a store
+//  APaShare Categories with Others

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+<string name="app_name">HunyDoo</string>
+<color name="opaque_blue">#8000FF</color>
+<color name="opaque_gray">#999999</color>
+<string name="addItem">Add New Task</string>
+<string name="removeItem">Remove Task</string>
+
+<string name="addSpeechInpLoca"> Speech Input for address </string>
+<string name="addLocaEntry">Store current Location</string>
+<string name="addLocaMapEntry">Store the marker specified location</string>
+<string name="hiddenConfigCmd">Other Preferences</string>
+
+<string name="hdrTitle">Selected HunyDoo Item</string>
+<string name="reg_name">RegisterLocation</string>
+<string name="rec_name">RecordTask</string>
+<string name="mon_name">UserPreferences</string>
+<string name="dossier_name">DossierTab</string>
+<string name="map_act">MarkLocationOnMap</string>
+
+<string name="SelectLoca">Select Location</string>
+
+<string name="locname_sample_txt">where are you?</string>
+<string name="locname_view">Location Name:</string>
+<string name="locname_edit">LOCAICI</string>
+
+<string name="loca_SP_None">Requires either GPS or WiFi based Location to work</string> 
+<!-- Preferences -->
+<string name="continue_fulfiller_prompt">Keep HunyDoo running even when not visible [To shutdown completely use Force Stop in Android Settings]</string>
+<string name="show_smartdoo_prompt">Show Smart Doo</string>
+<string name="show_clear_taskonly_prompt"> Erase Only Task Database </string>
+<string name="show_clear_alldb_prompt"> Erase All Databases </string> 
+
+<string name="show_email_addr"> hd@thepaca.net </string>
+<string name="sendEmailText"> Feedback/Support </string>
+<string name="configureText"> Configure </string>
+<string name="configureMessage"> Enter Configure Command:</string>
+
+<string name="okLabel"> OK</string>
+<string name="cancelLabel"> Cancel</string>
+
+<string name="feedbackMessage">Feedback: HunyDoo </string>
+<string name="extraText"> Do you like it? </string>
+
+<string name="sendEmail"> Send Email...</string>
+
+<!--  <string name="recTask"> Record the Task</string>
+<string name="regLoc"> Register the Location </string>
+<string name="locMap">Location On Map </string> -->
+
+<!--  Tab Name -->
+<string name="regLoc">Location List</string>
+<string name="locMap">Locate On Map </string>
+<string name="recTask">Task List</string>
+<string name="dossierTask">Dossier</string>
+<string name="pref">Settings</string>
+
+<string name="locaName">Location Name</string>
+<string name="locaNameMesg">Enter Location name:</string>
+
+<string name="notiMesg">HunyDoo: Location Of Interest</string>
+
+<string name="notiTitle">HunyDoo Notification</string>
+<string name="notiDesc">Reached location of Interest</string>
+
+<string name="atLoca"> At Location: </string>
+<string name="emptyString">  </string>
+
+<string name="eula_title">License</string>
+<string name="eula_accept">I read the License and I accept it</string>
+<string name="eula_refuse">I do not accept the License</string>
+
+<string name="helpText">Help</string>
+<string name="helpDetails"><![CDATA[Use first tab to register current location. Use second tab to register a location on the map. To register the location, press Menu button. <br/> In the third tab, press the Menu button to add a task.]]></string>
+<string name="helpFurther">For further help, use "Feedback:" button</string>
+
+<string name="loca_storAvailButNotAvail">Cannot write to the External Storage</string>
+<string name="loca_extStorNotAvail">External storage not available</string>
+
+<!--  Options Menu  -->
+<string name="onmapstg">On Map</string>
+<string name="speechinputstg">Speech Input</string>
+
+<string name="taskTextTitle">Task Text</string>
+<string name="taskSpeechTitle">Task Speech</string>
+ 
+</resources>

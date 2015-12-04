@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="addItem">	Neues Element hinzufügen </string>
+<string name="removeItem">	Element entfernen</string>
+<string name="hdrTitle">Ausgewählte Artikel HunyDoo</string>	
+<string name="reg_name">Registrieren Task</string>	
+<string name="rec_name">Record Task</string>	
+<string name="mon_name">Monitor Lage</string>
+<string name="SelectLoca">Standort auswählen</string>
+<string name="map_act">Karte Aktivität</string>
+<string name="locname_sample_txt">	wo bist du?</string>
+<string name="locname_view">Ort Name:</string>	
+<string name="locname_edit">LOCAICI</string>	
+
+<string name="addSpeechInpLoca">Speech Input für die Adresse</string>
+<string name="addLocaEntry">Registrieren aktuellen Lage</string>
+<string name="addLocaMapEntry">Notieren Sie sich die Lage durch die Markierung angegeben</string>
+<string name="hiddenConfigCmd">Andere Einstellungen</string>
+
+<string name="show_smartdoo_prompt">Zeige Smart Doo</string>	
+<string name="show_clear_taskonly_prompt">Erase einzige Aufgabe Database</string>	
+<string name="show_clear_alldb_prompt">Erase All Databases</string>	
+<string name="sendEmailText">Feedback schicken</string>	
+<string name="configureText">Konfigurieren</string>	
+<string name="configureMessage">Geben Sie den Befehl configure:</string>
+<string name="okLabel">OK</string>	
+<string name="cancelLabel">Abbrechen</string>	
+<string name="feedbackMessage">	Feedback: HunyDoo</string>
+<string name="extraText">Gefällt es Ihnen?</string>
+<string name="sendEmail">E-Mail senden ...</string>
+<string name="pref">Voreinstellungen</string>
+<string name="locaName">Ort Name</string>
+<string name="locaNameMesg">Geben Sie Ort Name:</string>
+<string name="notiMesg">HunyDoo: Ort des Interesses</string>
+<string name="notiTitle">HunyDoo Notification</string>
+<string name="notiDesc">Erreicht Ort von Interesse</string>
+<string name="atLoca">Am Ort:</string>
+<string name="emptyString"> </string>
+
+<string name="loca_SP_None">Bentigt GPS oder WiFi-basierte Lage zu arbeiten </string>
+<!-- Preferences -->
+<string name="continue_fulfiller_prompt"> Halten HunyDoo laufen, auch wenn nicht sichtbar [Zum Abschalten vollst�ndig nutzen Force Stop in Android-Einstellungen]</string>
+
+<string name="recTask">	Task-Liste</string>
+<string name="regLoc">Ortsliste</string>
+<string name="locMap"> Suchen Sie auf der Karte</string>
+
+<string name="eula_title">Lizenz </string>
+<string name="eula_accept"> Ich lese die Lizenz und ich akzeptiere sie</string>
+<string name="eula_refuse">Ich akzeptiere nicht die Lizenz </string>
+
+<string name="helpText">Hilfe</string>
+<string name="helpDetails"><![CDATA[Verwenden ersten Registerkarte des jetzigen Standortes zu registrieren. Verwenden zweiten Registerkarte, um einen Standort auf der Karte zu registrieren. So registrieren Sie den Ort, dr�cken  Men�-Taste.<br/> In der dritten Registerkarte, dr�cken Sie die Men�-Taste, um eine Aufgabe hinzuzuf�gen.]]></string>
+<string name="helpFurther">F�r weitere Hilfe verwenden "Feedback"-Taste</string>
+</resources>

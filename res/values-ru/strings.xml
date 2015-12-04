@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="addItem">Добавить новую задачу</string>
+<string name="removeItem">Удалить задачу</string>
+<string name="hdrTitle">Выбранный HunyDoo Пункт</string>
+<string name="reg_name">Регистрация Целевой</string>
+<string name="rec_name">Запись Целевой</string>
+<string name="mon_name">Монитор Местоположение</string>
+<string name="SelectLoca">Выберите место расположения</string>
+<string name="map_act">	Карта активности</string>
+<string name="locname_sample_txt">	где ты?</string>
+<string name="locname_view">Место Название:</string>
+<string name="locname_edit">LOCAICI</string>
+
+<string name="show_smartdoo_prompt">Показать смарт-Ду</string>
+<string name="show_clear_taskonly_prompt">	Удаление базы данных только Целевой</string>
+<string name="show_clear_alldb_prompt">	Удаление всех баз данных</string>
+<string name="show_email_addr">	hd@thepaca.net</string>
+<string name="sendEmailText">Отправить отзыв</string>
+<string name="configureText">Настройка</string>
+<string name="configureMessage">Введите Настройка команда:</string>
+<string name="okLabel">	ОК</string>
+<string name="cancelLabel">	Отменить</string>
+<string name="feedbackMessage">	Обратная связь: HunyDoo</string>
+<string name="extraText">Нравится ли вам это?</string>
+<string name="sendEmail">Отправить личное сообщение для ...</string>
+
+<string name="pref">Настройки</string>
+<string name="locaName">Место Название</string>
+<string name="locaNameMesg">Введите имя Расположение:</string>
+<string name="notiMesg">HunyDoo: расположение интерес</string>
+<string name="notiTitle">Уведомление HunyDoo</string>
+<string name="notiDesc">Достигнута месте интересные</string>
+<string name="atLoca">В Расположение:</string>
+<string name="emptyString">	</string>
+	
+<string name="loca_SP_None">Требует либо GPS или WiFi определения местоположения для работы</string>
+<!-- Preferences -->
+<string name="continue_fulfiller_prompt">Держите HunyDoo работает, даже если не видно [Для выключения полностью использовать Силу Остановка в Android Настройки]</string>
+
+<string name="recTask">Список задач</string>
+<string name="regLoc">Расположение списка</string>
+<string name="locMap">Найти на карте</string>
+
+<string name="eula_title">Лицензия</string>
+<string name="eula_accept">Я читал лицензии и я принимаю его</string>
+<string name="eula_refuse">Я не принимаю условия лицензионного</string>
+
+<string name="helpText">Справка</string>
+<string name="helpDetails"><![CDATA[Использование первой вкладке зарегистрироваться текущее местоположение. Используйте вторую вкладку, чтобы зарегистрировать местоположение на карте. Чтобы зарегистрировать местоположение, нажмите кнопку меню. В третьей вкладке, нажмите кнопку меню, чтобы добавить задачу.]]></string>
+<string name="helpFurther">Для получения дополнительной помощи, использование "обратной связи:" кнопку </string>
+
+<string name="addSpeechInpLoca">Речевого ввода для адреса</string>
+<string name="addLocaEntry">Регистрация текущего местоположения</string>
+<string name="addLocaMapEntry">Запись места, указанного маркером</string>
+<string name="hiddenConfigCmd">Другие настройки</string>
+	
+</resources>

@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/TaskText" android:icon="@drawable/task_text" android:title="@string/taskTextTitle"></item>
+    <item android:id="@+id/TaskSpeech" android:icon="@drawable/task_speech" android:title="@string/taskSpeechTitle"></item>
+</menu>
+ 

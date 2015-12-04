@@ -1,0 +1,36 @@
+app_name,HunyDew
+addItem,Add New Item
+removeItem,Remove Item
+hdrTitle,Selected HunyDew Item
+reg_name,RegisterTask
+rec_name,RecordTask
+mon_name,MonitorLocation
+SelectLoca, Select Location
+map_act, Map Activity 
+locname_sample_txt,where are you?
+locname_view,Location Name:
+locname_edit,LOCAICI
+continue_fulfiller_prompt, Monitor after closing HunyDew
+show_smartdoo_prompt, Show Smart Doo
+show_clear_taskonly_prompt, Erase Only Task Database 
+show_clear_alldb_prompt, Erase All Databases  
+show_email_addr, hd@thepaca.net 
+sendEmailText, Send Feedback 
+configureText, Configure 
+configureMessage, Enter Configure Command:
+okLabel, OK
+cancelLabel, Cancel
+feedbackMessage,Feedback: HunyDew 
+extraText, Do you like it? 
+sendEmail, Send Email...
+recTask, Record the Task
+regLoc, Register the Location 
+locMap,Location On Map 
+pref,Preferences
+locaName,Location Name
+locaNameMesg,Enter Location name:
+notiMesg,HunyDew: Location Of Interest
+notiTitle,HunyDew Notification
+notiDesc,Reached location of Interest
+atLoca, At Location: 
+emptyString,1  

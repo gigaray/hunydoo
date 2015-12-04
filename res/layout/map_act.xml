@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  	xmlns:android="http://schemas.android.com/apk/res/android" 
+  	android:layout_width="fill_parent"
+  	android:layout_height="fill_parent">
+  <ZoomControls android:id="@+id/zoomcontrols"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content" />
+
+  	<com.google.android.maps.MapView
+  		android:id="@+id/hdMapView"
+    	android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:enabled="true"
+        android:clickable="true"
+        android:apiKey="09shkbMyZ_FBUWilzuW0ALRfBrkqtk9tOnGETqw" 
+    />  
+    <!-- 1B:36:4C:D0:A4:5B:AC:8D:11:6F:01:2D:BE:D9:5E:4E : 09shkbMyZ_FCdR8B7vDsBVezErbfrx7vk9z4l9w -->
+    <!-- 52:3A:89:99:2C:29:75:E5:01:B9:D4:48:3F:54:5A:18 : 09shkbMyZ_FA8nFSh35gGuaeJ1A4yN4s1puFmEw -->
+    <!-- A0:44:F2:D7:8F:59:BD:CA:11:18:9B:6A:D2:89:34:4F : 09shkbMyZ_FBUWilzuW0ALRfBrkqtk9tOnGETqw debug.keystore renewed on 5/23 -->
+
+</RelativeLayout>

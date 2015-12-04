@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  	xmlns:android="http://schemas.android.com/apk/res/android" 
+  	android:layout_width="fill_parent"
+  	android:layout_height="fill_parent">
+  
+  	<com.google.android.maps.MapView
+  		android:id="@+id/hdMapView"
+    	android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:enabled="true"
+        android:clickable="true"
+         android:apiKey="09shkbMyZ_FCD0ypVIII2k2bSBzekXKMIzzGY2g"
+    /> 
+    <!-- 82:0F:83:DB:34:73:D8:66:F0:78:D6:A0:39:F7:93:8B -->
+       <!-- android:apiKey="09shkbMyZ_FAWja7ON9VazAPwX4ssqfUCTFcZZQ" 
+    />   C:\android-master-keys\HunyDewMap>keytool -list -alias HunyDew01 -keystore "..\HunyDewPrj\hunydewprj-release-01.keystore
+" -storepass k*2* -keypass k*2* HunyDew01, Nov 27, 2010, PrivateKeyEntry, Certificate fingerprint (MD5): AD:9A:69:C3:C4:65:23:E2:4B:95:C4:A6:30:DB:C2:3B -->
+
+</RelativeLayout>

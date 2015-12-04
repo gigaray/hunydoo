@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="addItem">Ajouter une nouvelle tâche</string>
+<string name="removeItem">Supprimer la tâche</string>
+<string name="hdrTitle">L\'élément sélectionné HunyDoo</string>
+<string name="reg_name">Registre de travail</string>
+<string name="rec_name">Record de travail</string>
+<string name="mon_name">Moniteur Lieu</string>
+<string name="SelectLoca">Sélectionnez un lieu</string>
+<string name="map_act">	Carte d\'activité</string>
+<string name="locname_sample_txt">	où êtes-vous?</string>
+<string name="locname_view">Nom du lieu:</string>
+<string name="locname_edit">LOCAICI</string>
+<string name="continue_fulfiller_prompt">Gardez HunyDoo tourner même lorsqu\'il n\'est pas visible [Pour arrêter complètement l\'utilisation de la Force Arrêtez-vous dans Paramètres Android]</string>
+<string name="show_smartdoo_prompt">Afficher Doo Smart</string>
+<string name="show_clear_taskonly_prompt">Base de données Effacer seule tâche</string>
+<string name="show_clear_alldb_prompt">	Effacement de toutes les bases de données</string>
+<string name="show_email_addr">	hd@thepaca.net</string>
+<string name="sendEmailText">Envoyer un commentaire</string>
+<string name="configureText">Configurer</string>
+<string name="configureMessage">Entrez la commande configure:</string>
+<string name="okLabel">	OK</string>
+<string name="cancelLabel">	Annuler</string>
+<string name="feedbackMessage">	Commentaires: HunyDoo</string>
+<string name="extraText">Avez-vous aimé?</string>
+<string name="sendEmail">Envoyer un message ...</string>
+
+<string name="addSpeechInpLoca">Discours d\'entrée pour l\'adresse</string>
+<string name="addLocaEntry">Registre emplacement actuel</string>
+<string name="addLocaMapEntry">Notez l\'emplacement indiqué par le marqueur</string>
+<string name="hiddenConfigCmd">Autres préférences</string>
+
+<string name="pref">Préférences</string>
+<string name="locaName">Emplacement</string>
+<string name="locaNameMesg">Entrez le nom de Lieu:</string>
+<string name="notiMesg">HunyDoo: Lieu d\'intérêt</string>
+<string name="notiTitle">HunyDoo Notification</string>
+<string name="notiDesc">Emplacement atteint d\'intérêt</string>
+<string name="atLoca">A Localisation:</string>
+<string name="emptyString">	</string>
+	
+<string name="loca_SP_None"></string>
+<!-- Preferences -->
+
+<string name="recTask">Liste des tâches</string>
+<string name="regLoc">Liste des attractions</string>
+<string name="locMap">Localiser sur la carte</string>
+
+<string name="eula_title">Licence</string>
+<string name="eula_accept">J\'ai lu la licence et je l\'accepte</string>
+<string name="eula_refuse">Je n\'accepte pas la licence</string>
+
+<string name="helpText">Aide</string>
+<string name="helpDetails"><![CDATA[Utilisez le premier onglet pour enregistrer l\'emplacement actuel. Utilisez second onglet pour enregistrer un emplacement sur la carte. Pour enregistrer l\'emplacement, le bouton Menu presse. Dans le troisième onglet, appuyez sur le bouton Menu pour ajouter une tâche.]]></string>
+<string name="helpFurther">Pour plus d\'aide, utilisez "Commentaires:" bouton</string>
+
+</resources>

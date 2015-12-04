@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="addItem">	Agregar nuevo elemento </string>
+<string name="removeItem">Quitar elemento</string>
+<string name="hdrTitle">Artículo seleccionado HunyDoo</string>
+<string name="reg_name">Registro de tareas</string>
+<string name="rec_name">Registro de tareas</string>
+<string name="mon_name">Monitorear la ubicación de</string>
+<string name="SelectLoca">Seleccionar región</string>
+<string name="map_act">	Mapa Actividad</string>
+<string name="locname_sample_txt">¿dónde estás?</string>
+<string name="locname_view">Lugar Nombre:</string>
+<string name="locname_edit">LOCAICI</string>
+<string name="continue_fulfiller_prompt">Monitor después de cerrar HunyDoo</string>
+<string name="show_smartdoo_prompt">Mostrar Smart Doo</string>
+<string name="show_clear_taskonly_prompt">Borrar la base de datos única tarea</string>
+<string name="show_clear_alldb_prompt">	Borrar todas las bases de datos</string>
+<string name="show_email_addr">	info@thepaca.net</string>
+<string name="sendEmailText">Enviar comentarios</string>
+<string name="configureText">Configurar</string>
+<string name="configureMessage">Introduzca comando configure:</string>
+<string name="okLabel">	Aceptar</string>
+<string name="cancelLabel">	Cancelar</string>
+<string name="feedbackMessage">	Votos: HunyDoo</string>
+<string name="extraText">¿Te gusta?</string>
+<string name="sendEmail">Enviar correo electrónico ...</string>
+<string name="recTask">	Registro de la tarea</string>
+<string name="regLoc">Registro de la ubicación</string>
+<string name="locMap">Ubicación en el mapa</string>
+<string name="pref">Preferencias</string>
+<string name="locaName">Ubicación Nombre</string>
+<string name="locaNameMesg">Escriba el nombre de Ubicación:</string>
+<string name="notiMesg">HunyDoo: Lugar de interés</string>
+<string name="notiTitle">HunyDoo notificación</string>
+<string name="notiDesc">Ubicación alcanzado de Interés</string>
+<string name="atLoca">En Localización:</string>
+<string name="emptyString">	</string>
+
+<string name="addSpeechInpLoca">Discurso de entrada para la dirección</string>
+<string name="addLocaEntry">Situación actual del registro</string>
+<string name="addLocaMapEntry">Anote la ubicación especificada por el marcador</string>
+<string name="hiddenConfigCmd">Otras preferencias</string>	
+	
+</resources>

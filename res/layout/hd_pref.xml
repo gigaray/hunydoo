@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:orientation="vertical"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent">
+
+    	<TextView android:id="@+id/continue_fulfiller_res_prompt" 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"/>
+
+		<CheckBox 	android:id="@+id/continue_fulfiller_res_checkbox"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/continue_fulfiller_prompt"
+		/>
+    	<!-- <TextView android:id="@+id/show_smartdoo_res_prompt"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+		/>
+		<CheckBox 	android:id="@+id/show_smartdoo_res_checkbox"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/show_smartdoo_prompt"
+		/>  -->
+		<TextView android:id="@+id/show_clear_alldb_res_prompt"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+		/>
+		<CheckBox 	android:id="@+id/show_clear_alldb_res_checkbox"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/show_clear_alldb_prompt"
+		/>
+		<TextView android:id="@+id/show_clear_taskonly_res_prompt"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+		/>
+		<CheckBox 	android:id="@+id/show_clear_taskonly_res_checkbox"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/show_clear_taskonly_prompt"
+		/>
+		<LinearLayout
+    		android:orientation="horizontal"
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content">
+    		
+	        <TextView android:id="@+id/show_version_details"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+		    />
+
+			<Button  android:id="@+id/emailButton" 
+					 android:text="@string/sendEmailText"
+	                 android:layout_width="wrap_content" 
+	                 android:layout_height="wrap_content" 
+	        />  
+		   <!-- <Button  android:id="@+id/configButton" 
+					 android:text="@string/configureText"
+	                 android:layout_width="wrap_content" 
+	                 android:layout_height="wrap_content" 
+	        />  --> 
+	         <Button  android:id="@+id/helpButton" 
+					 android:text="@string/helpText"
+	                 android:layout_width="wrap_content" 
+	                 android:layout_height="wrap_content" 
+	        /> 
+		</LinearLayout>
+		
+		<LinearLayout
+    		android:orientation="horizontal"
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content">
+			<Button  android:id="@+id/okButton" 
+	                 android:layout_width="wrap_content" 
+	                 android:layout_height="wrap_content" 
+	                 android:text="@string/okLabel" 
+	        />  
+			<Button  android:id="@+id/cancelButton" 
+	                 android:layout_width="wrap_content" 
+	                 android:layout_height="wrap_content" 
+	                 android:text="@string/cancelLabel" 
+	        />  
+		</LinearLayout>
+			
+	</LinearLayout>

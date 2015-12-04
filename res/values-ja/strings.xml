@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="addItem">新しいタスクを追加します。</string>
+<string name="removeItem">タスクを削除</string>
+<string name="hdrTitle">HunyDoo項目を選択</string>
+<string name="reg_name">レジスタタスク</string>
+<string name="rec_name">レコードタスク</string>
+<string name="mon_name">モニタ場所</string>
+<string name="SelectLoca">	場所を選択</string>
+<string name="map_act">地図アクティビティ</string>
+<string name="locname_sample_txt">どこにいるの？</string>
+<string name="locname_view">場所の名前：</string>
+<string name="locname_edit">LOCAICI</string>
+
+<string name="show_smartdoo_prompt">[スマート斗</string>
+<string name="show_clear_taskonly_prompt">消去のみタスクデータベース</string>
+<string name="show_clear_alldb_prompt">消去は、すべてのデータベース</string>
+<string name="show_email_addr">info@thepaca.net</string>
+<string name="sendEmailText">フィードバックを送信する</string>
+<string name="configureText">設定</string>
+<string name="configureMessage">configureコマンドを入力します：</string>
+<string name="okLabel">	[OK]を</string>
+<string name="cancelLabel">	キャンセル</string>
+<string name="feedbackMessage">	フィードバック：HunyDoo</string>
+<string name="extraText">あなたはそれが好きですか？</string>
+<string name="sendEmail">メールを送信...</string>
+
+<string name="pref">設定</string>
+<string name="locaName">ロケーション名</string>
+<string name="locaNameMesg">場所の名前を入力してください：</string>
+<string name="notiMesg">HunyDoo：金利のロケーション</string>
+<string name="notiTitle">HunyDoo通知</string>
+<string name="notiDesc">興味の到達場所</string>
+<string name="atLoca">	場所で：</string>
+<string name="emptyString">	</string>
+
+<string name="loca_SP_None">のいずれかが必要ですGPSや無線LANベースの場所を動作させる</string>
+<!-- Preferences -->
+<string name="continue_fulfiller_prompt">してくださいHunyDooも実行していないときに表示[シャットダウン完全Androidの設定で強制的に停止を使用するには]</string>
+
+<string name="recTask">タスクリスト</string>
+<string name="regLoc">[場所]ボックスの一覧</string>
+<string name="locMap">地図上の位置</string>
+
+<string name="eula_title">ライセンス</string>
+<string name="eula_accept">私は、ライセンス読んで、私はそれを受け入れる</string>
+<string name="eula_refuse">私は、ライセンスに同意しない</string>
+
+<string name="helpText">ヘルプ</string>
+<string name="helpDetails"><![CDATA[現在の場所を登録する最初のタブを使用します。地図上の場所を登録し、2番目のタブを使用します。場所を、プレス 登録してください。番目のタブで、タスクを追加するにはメニューボタンを押してください。]]></string>
+<string name="helpFurther">ボタン：詳細ヘルプについては、"フィードバック"を使用 </string>
+
+<string name="addSpeechInpLoca">アドレスのための音声入力</string>
+<string name="addLocaEntry">レジスタ現在のロケーション</string>
+<string name="addLocaMapEntry">マーカーで指定した場所を記録</string>
+<string name="hiddenConfigCmd">その他の設定</string>
+	
+</resources>
